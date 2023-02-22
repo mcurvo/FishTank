@@ -4,7 +4,7 @@ This is a C# class library for managing a fish tank. It provides the ability to 
 
 ## User Storie
 
-The application should provide a feature that enables the user to add three different types of fish, which are Gold fish, Angel fish, and Babel fish to the tank. Additionally, the user should be able to name each fish added to the tank. To calculate the amount of food needed for the fish in the tank, the application should provide a Tank.Feed() method that returns the weight in grams of the total required fish food. Specifically, each Gold fish requires 0.1 grams of fish food, each Angel fish requires 0.2 grams, and each Babel fish requires 0.3 grams. It is important to design the system in a way that allows for the addition of more fish types in the future without the need to modify the Tank class.
+The application should provide a feature that enables the user to add three different types of fish, which are Gold fish, Angel fish, and Babel fish to the tank. Additionally, the user should be able to name each fish added to the tank. To calculate the amount of food needed for the fish in the tank, the application should provide a Tank.Feed() method that returns the weight in grams of the total required fish food. Specifically, each Gold fish requires 0.1 grams of fish food, each Angel fish requires 0.2 grams, and each Babel fish requires 0.3 grams.
 
 ## Usage
 
